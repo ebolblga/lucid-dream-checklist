@@ -1,15 +1,19 @@
-# lucid-dream-checklist
+<h1 align="right">Lucid dream checklist 📋✔️</h1>
 
 [![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/ebolblga/lucid-dream-checklist/blob/master/README.md)
 [![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/ebolblga/lucid-dream-checklist/blob/master/README.ru.md)
 <!-- DeepWiki badge here: https://deepwiki.ryoppippi.com/ -->
 
-_DISCLAIMER: I'm not neural or [oneirology](https://en.wikipedia.org/wiki/Oneirology) scientist, nor am I a psychiatrist, I'm just a dude that formed a small list of ideas I came across during lucid dream experimentation when I was a kid. I don't know if it possible to cause yourself a trauma or become mentally ill, so try those things out at your own risk._
-
-Contributions to the checklist are welcome, just send a PR or open an issue.
+Contributions to the checklist are welcome, just send a PR by following [contribution guide](https://github.com/ebolblga/lucid-dream-checklist/blob/main/CONTRIBUTING.md).
 
 ## 1. Introduction
-Simply fork this repository and slowly check the boxes you've already tried.
+> [!CAUTION]
+> I'm not a neural or [oneirology](https://en.wikipedia.org/wiki/Oneirology) scientist, nor am I a psychiatrist, I'm just a dude that formed a small list of ideas I came across during lucid dream experimentation back when I was a <sub>small kid</sub>. I don't know if it's possible to cause yourself some sort of trauma from such experiments, so try those things out at your own risk.
+
+I noticed that not a lot of people go so far with lucid dreams, most of my friends report only experiencing this effect once or twice in their lifetime. But in fact you can force yourself to lucid dream more often and do quite a lot. I always wanted to somehow share this checklist, but some concepts were hard to explain with words. Thankfully now we have diffustion models that generate images from text quite well. Moreover first open source model that can generate videos from text came out - [Wan2.2](https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B), althoguh it was not used for visual examples in the repository yet.
+
+> [!TIP]
+> Simply fork this repository and slowly check off the things you've already tried.
 
 ## 2. List of terms and abbreviations
 > **Lucid dream** - a type of dream where you are aware that you’re dreaming while it’s happening.
@@ -17,11 +21,11 @@ Simply fork this repository and slowly check the boxes you've already tried.
 > **NPC (non‑player character)** - a self-generated, subconscious dream character created and controlled entirely by your own brain during REM sleep. These entities arise from memory fragments and social schemas via hippocampal and neocortical systems, are placed into the dream narrative by your Default‑Mode Network, and are emotionally charged by limbic activity. With reduced prefrontal oversight they follow scripted behaviors—but once you become lucid, your reactivated prefrontal cortex lets you override or reshape their roles.
 
 Other sleep-related experiences I had and managed to find names of:
-- [Alice in wonderland syndrome](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome)
-- [Exploading head syndrome](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
-- [Hypnagogic hallucinations](https://en.wikipedia.org/wiki/Hypnagogia)
-- [Hypnic jerk](https://en.wikipedia.org/wiki/Hypnic_jerk)
-- [Sleep paralysis](https://en.wikipedia.org/wiki/Sleep_paralysis)
+- [Alice in wonderland syndrome - Wikipedia](https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome)
+- [Exploading head syndrome - Wikipedia](https://en.wikipedia.org/wiki/Exploding_head_syndrome)
+- [Hypnagogic hallucinations - Wikipedia](https://en.wikipedia.org/wiki/Hypnagogia)
+- [Hypnic jerk - Wikipedia](https://en.wikipedia.org/wiki/Hypnic_jerk)
+- [Sleep paralysis - Wikipedia](https://en.wikipedia.org/wiki/Sleep_paralysis)
 
 ## 3. Checklist
 ### 3.1. Mind & Subconscious Interactions
@@ -67,8 +71,9 @@ That’s actually a fun way to explore how your mind generates sensations - conc
     <details>
       <summary>Image example:</summary>
       <img src="assets/3_2_1.webp" alt="A first-person perspective: eating a block of concrete">
-      <p><b>Model: <a href="https://chatgpt.com/" target="_blank">ChatGPT-5</a></b></p>
+      <p><b>Model: <a href="https://chatgpt.com/" target="_blank">GPT-4o</a></b></p>
       <p>Prompt: <i>"A first-person perspective: I’m in a dream and eating a block of concrete. I can see my hand holding block of concrete with a bite already taken out. The edges softly blurred as if through a foggy lens. Soft focus on the periphery adds to the dreamlike quality. The lighting is hazy but vivid, colors muted pastels with sudden glimmers of brilliance."</i></p>
+      <img src="assets/3_2_1_2.webp" alt="'i eat cement'">
     </details>
 
 - [ ] **Simulate scenes from movies**<br />
@@ -79,9 +84,12 @@ That’s actually a fun way to explore how your mind generates sensations - conc
 
 - [ ] **Simulate astral projection**<br />
 *Astral projection is usually described as an “out-of-body experience” where you feel like your consciousness separates from your physical body and can travel around. In reality this is of course just a lucid dream where you imagine seperating from your body, looking at yourself sleep and walking around the house. If you want to prove that this is actually just a dream and not some "astral projection", just look at the clock, remember the time and force yourself to wake up. Time on the clock in real life would most deffinetely different from what your brain imagined.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
+    <details>
+      <summary>Image example:</summary>
+      <img src="assets/3_2_3.webp" alt="A first-person perspective: looking at myself sleeping">
+      <p><b>Model: <a href="https://chatgpt.com/" target="_blank">GPT-4o</a></b></p>
+      <p>Prompt: <i>"A first-person perspective from my eyes. I'm in a dark room looking at someone sleeping. I can't see his face, because he is turned from me. The edges of the image are softly blurred as if through a foggy lens. Soft focus on the periphery adds to the dreamlike quality."</i></p>
+    </details>
 
 - [ ] **Listen to music**<br />
 *Listening to music inside a lucid dream is a mind-blowing experience, because your brain is basically composing and performing it in real time without any external input.*
@@ -113,7 +121,7 @@ That’s actually a fun way to explore how your mind generates sensations - conc
     <details>
       <summary>Image example:</summary>
       <img src="assets/3_3_2.webp" alt="A first-person perspective: levitating a building">
-      <p><b>Model: <a href="https://chatgpt.com/" target="_blank">ChatGPT-5</a></b></p>
+      <p><b>Model: <a href="https://chatgpt.com/" target="_blank">GPT-4o</a></b></p>
       <p>Prompt: <i>"A first-person perspective: I’m in a dream and levitating a soviet building using my hand. I can see my hand. The edges softly blurred as if through a foggy lens. Soft focus on the periphery adds to the dreamlike quality. The lighting is hazy but vivid, colors muted pastels with sudden glimmers of brilliance."</i></p>
     </details>
 
@@ -146,7 +154,7 @@ That’s actually a fun way to explore how your mind generates sensations - conc
     <details>
       <summary>Image example:</summary>
       <img src="assets/3_4_4.webp" alt="A first-person perspective: levitating a building">
-      <p><b>Model: <a href="https://chatgpt.com/" target="_blank">ChatGPT-5</a></b></p>
+      <p><b>Model: <a href="https://chatgpt.com/" target="_blank">GPT-4o</a></b></p>
       <p>Prompt: <i>"A first-person perspective: I’m in a dream and my limbs are stretching for many kilometres, I can see how my left leg disappears behind horizon, while my right hand is making big arch. My right leg and left hand are not in the field of view from my eyes. The edges softly blurred as if through a foggy lens. Soft focus on the periphery adds to the dreamlike quality. The lighting is hazy but vivid, colors muted pastels with sudden glimmers of brilliance."</i></p>
     </details>
 
@@ -181,5 +189,12 @@ That’s actually a fun way to explore how your mind generates sensations - conc
     <summary>Video example:</summary>
     </details> -->
 
-## 4. Technical information
-I was collecting this list back when I was in school and had enough sleep to play around with lucid dreams. I always wanted to somehow share it, but some concepts were hard to explain with words and I was planning on making some animations. Thankfully now we have open source models that can generate videos from text, first one is [Wan2.2](https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B), so it was used for this project.
+## 4. How to force more lucid dreams
+
+## Contributors
+<a href="https://github.com/ebolblga/lucid-dream-checklist/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ebolblga/lucid-dream-checklist"/>
+</a>
+
+## [License](https://github.com/ebolblga/lucid-dream-checklist/blob/master/LICENSE.md)
+This project is licensed under the MIT License. Please read the License file to know about the usage terms and conditions.
