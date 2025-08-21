@@ -1,16 +1,21 @@
-<h1 align="right">Lucid dream checklist 📋✔️</h1>
-
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/ebolblga/lucid-dream-checklist/blob/master/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/ebolblga/lucid-dream-checklist/blob/master/README.ru.md)
+<div align="right">
+    <h1>Lucid dream checklist 📋✔️</h1>
+    <a href="https://github.com/ebolblga/lucid-dream-checklist/blob/master/README.md">
+        <img alt="en" src="https://img.shields.io/badge/lang-en-green.svg" />
+    </a>
+    <a href="https://github.com/ebolblga/lucid-dream-checklist/blob/master/README.ru.md">
+        <img alt="ru" src="https://img.shields.io/badge/lang-ru-red.svg" />
+    </a>
+</div>
 <!-- DeepWiki badge here: https://deepwiki.ryoppippi.com/ -->
 
-Contributions to the checklist are welcome, just send a PR by following [contribution guide](https://github.com/ebolblga/lucid-dream-checklist/blob/main/CONTRIBUTING.md).
-
 ## 1. Introduction
-> [!CAUTION]
-> I'm not a neural or [oneirology](https://en.wikipedia.org/wiki/Oneirology) scientist, nor am I a psychiatrist, I'm just a dude that formed a small list of ideas I came across during lucid dream experimentation back when I was a <sub>small kid</sub>. I don't know if it's possible to cause yourself some sort of trauma from such experiments, so try those things out at your own risk.
+Contributions to the checklist are welcome, just send a pull request by following [contribution guide](https://github.com/ebolblga/lucid-dream-checklist?tab=contributing-ov-file).
 
-I noticed that not a lot of people go so far with lucid dreams, most of my friends report only experiencing this effect once or twice in their lifetime. But in fact you can force yourself to lucid dream more often and do quite a lot. I always wanted to somehow share this checklist, but some concepts were hard to explain with words. Thankfully now we have diffustion models that generate images from text quite well. Moreover first open source model that can generate videos from text came out - [Wan2.2](https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B), althoguh it was not used for visual examples in the repository yet.
+> [!CAUTION]
+> I'm not a neural or [oneirology](https://en.wikipedia.org/wiki/Oneirology) scientist, nor am I a medical professional in any field, I'm just a dude that formed a small list of ideas I came across during lucid dream experimentation back when I was a <sub>small kid</sub>. Lucid-dream techniques can cause sleep disruption, intense hypnagogic imagery, anxiety, or prolonged sleep paralysis for some people. Try these techniques at your own risk.
+
+I noticed that not a lot of people go so far with lucid dreams, most of my friends report only experiencing this effect once or twice in their lifetime. But in fact you can force yourself to lucid dream more often and do quite a lot. I always wanted to somehow share this checklist, but some concepts were hard to explain with words. Thankfully now we have diffusion models that generate images from text quite well. Moreover, the first open source model that can generate videos from text came out - [Wan2.2](https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B), although it was not used for visual examples in the repository yet.
 
 > [!TIP]
 > Simply fork this repository and slowly check off the things you've already tried.
@@ -30,7 +35,7 @@ Other sleep-related experiences I had and managed to find names of:
 ## 3. Checklist
 ### 3.1. Mind & Subconscious Interactions
 - [ ] **Look in a mirror**<br />
-*This is how you remember yourself, all your complexes will be exaggerated.*
+*This is an interesting mental exercise. What you will see in the "reflection" is how you remember yourself, so all your complexes will be exaggerated.*
     <!-- <details>
     <summary>Video example:</summary>
     </details> -->
@@ -42,14 +47,14 @@ Other sleep-related experiences I had and managed to find names of:
     </details> -->
 
 - [ ] **Ask for interesting ideas**<br />
-<!-- *Description*
-    <details>
+*In the most likely scenario, if you actually pay attention to what NPC's are saying, you will hear gibberish. I once tried an interesting experiment. I forgot something and thought it could help me remember something if I just tried asking subconscious me about that thing I forgot. NPC indeed answered, however, when I woke up and analyzed their words I realized it's just completely made-up nonsense.*
+    <!-- <details>
     <summary>Video example:</summary>
     </details> -->
 
 - [ ] **Ask NPCs for math problems**<br />
-<!-- *Description*
-    <details>
+*Similarly to the previous experiment, the most likely result is that they will hallucinate answer just like a bad LLM model.*
+    <!-- <details>
     <summary>Video example:</summary>
     </details> -->
 
@@ -77,13 +82,10 @@ That’s actually a fun way to explore how your mind generates sensations - conc
     </details>
 
 - [ ] **Simulate scenes from movies**<br />
-<!-- *Description*
-    <details>
-    <summary>Video example:</summary>
-    </details> -->
+*Not something mind-blowing but if it is your 50th time lucid dreaming, it might be an ok way to spend some time.*
 
 - [ ] **Simulate astral projection**<br />
-*Astral projection is usually described as an “out-of-body experience” where you feel like your consciousness separates from your physical body and can travel around. In reality this is of course just a lucid dream where you imagine seperating from your body, looking at yourself sleep and walking around the house. If you want to prove that this is actually just a dream and not some "astral projection", just look at the clock, remember the time and force yourself to wake up. Time on the clock in real life would most deffinetely different from what your brain imagined.*
+*Astral projection is usually described as an “out-of-body experience” where you feel like your consciousness separates from your physical body and can travel around. In reality this is, of course, just a lucid dream where you imagine separating from your body, looking at yourself sleep and walking around the house. If you want to prove that this is actually just a dream and not some "astral projection", just look at the clock, remember the time, and force yourself to wake up. Time on the clock in real life would most definitely be different from what your brain imagined.*
     <details>
       <summary>Image example:</summary>
       <img src="assets/3_2_3.webp" alt="A first-person perspective: looking at myself sleeping">
@@ -93,28 +95,16 @@ That’s actually a fun way to explore how your mind generates sensations - conc
 
 - [ ] **Listen to music**<br />
 *Listening to music inside a lucid dream is a mind-blowing experience, because your brain is basically composing and performing it in real time without any external input.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
 
 - [ ] **Visit an art exhibition**<br />
-*There are rumors that some famouse artists throughout history used dreams as inspiration for their work.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
+*There are rumors that some famous artists throughout history used dreams as inspiration for their work.*
 
 - [ ] **Control yourself from third-person view**<br />
-*Over shoulder view like in Dead Space also cool. You can even try 2D world, I once after working full day on cellular automata had a 2D dream, weird experience.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
+*An over-the-shoulder view like in Dead Space also cool. You can even try 2D world, I once, after working a full day on cellular automata had a 2D dream - a weird experience.*
 
 ### 3.3. Physics Manipulation
 - [ ] **Change logic and physical parameters**<br />
 *Reverse gravity, imagine world without friction force etc.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
 
 - [ ] **Levitate an object**<br />
 *Obvious stuff.*
@@ -126,29 +116,17 @@ That’s actually a fun way to explore how your mind generates sensations - conc
     </details>
 
 - [ ] **Speed up time**<br />
-*And spectate how black holes evaporate and universe becomes forever dark.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
+*And spectate how black holes evaporate and the universe becomes forever dark.*
 
 ### 3.4. Body Manipulation
 - [ ] **Imagine you’re the opposite sex and have sexual intercourse with someone**<br />
 *Another way to explore how your mind generates sensations.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
 
 - [ ] **Scream endlessly**<br />
-*If you try right now to scream in your head (if you do have constant inner monologue) you may have hard time actually screaming endlessly. You will feel like you need to take a breath like in real life. It's way easier to do in lucid dream through, so take this as mental exercise.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
+*If you try right now to scream in your head (if you do have a constant inner monologue), you may have a hard time actually screaming endlessly. You will feel like you need to take a breath, like in real life. It's way easier to do in a lucid dream, through, so take this as a mental exercise.*
 
 - [ ] **Become invisible**<br />
-<!-- *Description*
-    <details>
-    <summary>Video example:</summary>
-    </details> -->
+*Hollow Man (2000)*
 
 - [ ] **Stretch your limbs for many kilometers**<br />
     <details>
@@ -160,36 +138,24 @@ That’s actually a fun way to explore how your mind generates sensations - conc
 
 ### 3.5. Spatial & Movement Manipulation
 - [ ] **Walk through a wall**<br />
-<!-- *Description*
-    <details>
-    <summary>Video example:</summary>
-    </details> -->
+*A good exercise to learn how to teleport.*
 
 - [ ] **Walk into a mirror**<br />
-<!-- *Description*
-    <details>
-    <summary>Video example:</summary>
-    </details> -->
+*I guess this is onto your brain on how to simulate this scenario, but it could yield an interesting result.*
 
 - [ ] **Teleport to a random place**<br />
-*From my experience easiest way to do so is to spin around and imagine place you want to teleport to. Alternatively just looking at some wall/ground works too.*
-    <!-- <details>
-    <summary>Video example:</summary>
-    </details> -->
+*From my experience the easiest way to do so is to spin around and imagine the place you want to teleport to. Alternatively, just looking at some wall/ground works too.*
 
-- [ ] **Lift a house and throw it**<br />
-<!-- *Description*
-    <details>
-    <summary>Video example:</summary>
-    </details> -->
+- [ ] **Fly**<br />
+*This is the first thing people do in lucid dreams and yet it may be hard to take off actually. This is a lot like running in a dream, there is a reason why it feels weird: the brain areas responsible for movement do light up during dreams, but they aren’t fully synced with the sensory feedback loops you’d normally get when awake (like feeling your feet hit the ground). Without that feedback, your brain "fills in" the experience, often in distorted ways—like sticky ground or sluggish running.*
 
 - [ ] **Experience weightlessness in space**<br />
-<!-- *Description*
-    <details>
-    <summary>Video example:</summary>
-    </details> -->
 
 ## 4. How to force more lucid dreams
+There are multiple strategies that work pretty well for me:
+1. **MILD Technique (Mnemonic Induction of Lucid Dreams)** - one of the most effective methods is to simply think about lucid dreaming before bed. This strengthens intention, which is surprisingly effective.
+2. **WBTB (Wake Back to Bed)** - set an alarm ~4–6 hours after falling asleep and drift off into sleep thinking about lucid dreams.
+3. **WILD (Wake Initiated Lucid Dream)** - as you’re falling asleep, keep your mind awake while your body drifts off, you might feel sleep paralysis or see hypnagogic imagery - just let it happen. If you stay calm, you can step straight into a lucid dream.
 
 ## Contributors
 <a href="https://github.com/ebolblga/lucid-dream-checklist/graphs/contributors">
