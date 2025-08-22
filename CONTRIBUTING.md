@@ -6,6 +6,8 @@ Fork this Github repo and clone your fork locally. Then make changes in a local 
 
 See [creating a pull request from a fork](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for more information.
 
+To fork this repository simply [click here](https://github.com/ebolblga/lucid-dream-checklist/fork).
+
 ```bash
 # 1. Fork via GitHub UI
 # 2. Clone your fork locally (replace your-username)
